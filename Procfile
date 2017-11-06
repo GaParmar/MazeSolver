@@ -1,0 +1,1 @@
+web: gbuicorn app:app
